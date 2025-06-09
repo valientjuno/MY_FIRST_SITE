@@ -55,6 +55,12 @@ nav li a {
   color: #4b4b4b;
 }
 
+footer {
+  background-color: blueviolet;
+  color: azure;
+  padding: 10px;
+  text-align: center;
+}
 /*  seudo classes */
 nav li a:hover {
   text-decoration: underline;
