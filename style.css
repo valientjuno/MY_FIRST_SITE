@@ -54,7 +54,9 @@ nav li a {
   text-decoration: none;
   color: #4b4b4b;
 }
-
+.images {
+  text-align: center;
+}
 footer {
   background-color: blueviolet;
   color: azure;
