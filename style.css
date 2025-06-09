@@ -66,15 +66,9 @@ nav li a:hover {
 }
 .images li:hover {
   position: relative;
-  right: -4px;
+  right: 4px;
 }
-form input:focus {
-  border: 4px dashed #4b4b4b;
-  outline: none;
-}
-form input:valid {
-  border: 4px solid #71d300;
-}
+
 article p::first-line {
   font-weight: bold;
   font-size: 1.2em;
